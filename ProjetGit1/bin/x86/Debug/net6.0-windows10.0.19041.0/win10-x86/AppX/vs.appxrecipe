@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\Luc\source\repos\testGit1\ProjetGit1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-04T12:29:05.535</Modified>
+      <Modified>2022-11-04T14:18:56.304</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luc\source\repos\testGit1\ProjetGit1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-04T12:29:05.178</Modified>
+      <Modified>2022-11-04T14:18:55.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luc\source\repos\testGit1\ProjetGit1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\ProjetGit1.runtimeconfig.json">
       <PackagePath>ProjetGit1.runtimeconfig.json</PackagePath>
-      <Modified>2022-11-04T12:18:13.522</Modified>
+      <Modified>2022-11-04T14:18:55.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luc\source\repos\testGit1\ProjetGit1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\ProjetGit1.dll">
       <PackagePath>ProjetGit1.dll</PackagePath>
-      <Modified>2022-11-04T12:29:04.836</Modified>
+      <Modified>2022-11-04T14:18:54.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luc\source\repos\testGit1\ProjetGit1\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\apphost.exe">
       <PackagePath>ProjetGit1.exe</PackagePath>
-      <Modified>2022-11-04T12:29:04.866</Modified>
+      <Modified>2022-11-04T14:18:54.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luc\source\repos\testGit1\ProjetGit1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\ProjetGit1.deps.json">
       <PackagePath>ProjetGit1.deps.json</PackagePath>
-      <Modified>2022-11-04T12:18:13.338</Modified>
+      <Modified>2022-11-04T14:18:55.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luc\.nuget\packages\microsoft.netcore.app.runtime.win-x86\6.0.9\runtimes\win-x86\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
